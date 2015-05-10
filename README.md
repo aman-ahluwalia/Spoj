@@ -1,2 +1,1 @@
-spoj solutions with names as problem codes 
-And general algos
+Spoj solutions with names as problem codes(provided at the spoj site)
